@@ -113,13 +113,12 @@ The reference complex represents the parent AI-designed PD-L1 binder before deve
 
 ## 1. Antibody Numbering and CDR Annotation
 
-The parent antibody candidate was numbered using multiple antibody numbering schemes:
+The parent PD-L1 antibody candidate was annotated using standard antibody numbering schemes, including IMGT, Kabat, and Chothia. Framework and CDR regions were extracted to support downstream liability mapping, developability scoring, and rational mutation design.
 
-* IMGT
-* Kabat
-* Chothia
+![Antibody numbering and CDR/framework annotation](figures/step1_antibody_numbering_cdr_annotation.png)
 
-CDR and framework regions were extracted to support downstream liability mapping and mutation design.
+**Figure 1. Antibody numbering and CDR/framework annotation of the parent PD-L1 candidate.**  
+The parent AI-designed PD-L1 antibody variable-region sequence was annotated using IMGT, Kabat, and Chothia numbering schemes. Framework regions (FRs) and complementarity-determining regions (CDRs) were mapped along the same parent sequence to illustrate how boundary definitions differ across numbering systems. Full CDR sequences and lengths were extracted for downstream sequence-liability analysis, developability feature calculation, rational mutation proposal, and structure-based variant evaluation.
 
 Output files:
 
