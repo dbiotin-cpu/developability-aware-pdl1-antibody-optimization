@@ -1,0 +1,12 @@
+variant_id,variant_type,mutations,num_mutations,risk_score,delta_risk_score_vs_WT,total_liability_flags,liability_reduction_vs_WT,cdr_liability_flags,cdr_liability_reduction_vs_WT,pI,net_charge_pH_7_4,cdr_hydrophobic_fraction,cdr_aromatic_fraction,optimization_score_pre_structure,pre_structure_decision
+PDL1_final_candidate_V99_combined_conservative,combined_conservative,D62E;D73E;N77Q;N84Q;D90E,5,10.0,-5.0,7,5,1,0,9.106,2.854,0.32,0.12,15.0,Advance to structural re-evaluation
+PDL1_final_candidate_V10_N103Q,single_mutation,N103Q,1,11.0,-4.0,11,1,0,1,9.106,2.853,0.32,0.12,8.0,Advance to structural re-evaluation
+PDL1_final_candidate_V01_D62E,single_mutation,D62E,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V02_D73E,single_mutation,D73E,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V03_N77Q,single_mutation,N77Q,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V04_N84Q,single_mutation,N84Q,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V05_D90E,single_mutation,D90E,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V06_W36F,single_mutation,W36F,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V07_W47F,single_mutation,W47F,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V08_M83L,single_mutation,M83L,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation
+PDL1_final_candidate_V09_W106F,single_mutation,W106F,1,14.0,-1.0,11,1,1,0,9.106,2.853,0.32,0.12,3.0,Consider for structural re-evaluation

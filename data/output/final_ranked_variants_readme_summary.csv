@@ -1,0 +1,12 @@
+final_rank,variant_id,final_decision,final_integrated_score,mutations,num_mutations,pre_structure_risk_score,liability_reduction_vs_WT,cdr_liability_reduction_vs_WT,epitope_contact_retention,contact_pair_jaccard_vs_reference,binder_ca_rmsd_after_target_alignment_A,epitope_retention_score
+1,PDL1_final_candidate_V99_combined_conservative,Reject: binding mode not retained,0.263,D62E;D73E;N77Q;N84Q;D90E,5,10.0,5,0,0.0,0.0,90.237,0.133
+2,PDL1_final_candidate_V04_N84Q,Reject,0.163,N84Q,1,14.0,1,0,,,,
+3,PDL1_final_candidate_V05_D90E,Reject,0.163,D90E,1,14.0,1,0,,,,
+4,PDL1_final_candidate_V06_W36F,Reject,0.163,W36F,1,14.0,1,0,,,,
+5,PDL1_final_candidate_V07_W47F,Reject,0.163,W47F,1,14.0,1,0,,,,
+6,PDL1_final_candidate_V08_M83L,Reject,0.163,M83L,1,14.0,1,0,,,,
+7,PDL1_final_candidate_V09_W106F,Reject,0.163,W106F,1,14.0,1,0,,,,
+8,PDL1_final_candidate_V10_N103Q,Reject: binding mode not retained,0.143,N103Q,1,11.0,1,1,0.0,0.0,92.835,0.133
+9,PDL1_final_candidate_V01_D62E,Reject: binding mode not retained,0.01,D62E,1,14.0,1,0,0.0,0.0,89.233,0.133
+10,PDL1_final_candidate_V02_D73E,Reject: binding mode not retained,0.01,D73E,1,14.0,1,0,0.0,0.0,93.261,0.133
+11,PDL1_final_candidate_V03_N77Q,Reject: binding mode not retained,0.01,N77Q,1,14.0,1,0,0.0,0.0,86.621,0.133
