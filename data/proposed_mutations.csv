@@ -1,0 +1,11 @@
+record,mutation,position,old_aa,new_aa,region,in_cdr,source_liability_type,source_motif,source_start,source_end,source_severity,mutation_strategy,risk_note,priority_score
+PDL1_final_candidate,D62E,62,D,E,FR3,False,Asp isomerization motif,DS,62,63,low,D->E to reduce Asp isomerization motif risk while preserving negative charge,Requires structure review if the Asp is involved in binding or loop conformation.,8
+PDL1_final_candidate,D73E,73,D,E,FR3,False,Asp isomerization motif,DT,73,74,low,D->E to reduce Asp isomerization motif risk while preserving negative charge,Requires structure review if the Asp is involved in binding or loop conformation.,8
+PDL1_final_candidate,N77Q,77,N,Q,FR3,False,Asn deamidation motif,NT,77,78,low,N->Q to reduce Asn deamidation motif risk,Requires structure review if the Asn is in CDR or antigen-contacting region.,8
+PDL1_final_candidate,N84Q,84,N,Q,FR3,False,Asn deamidation motif,NS,84,85,low,N->Q to reduce Asn deamidation motif risk,Requires structure review if the Asn is in CDR or antigen-contacting region.,8
+PDL1_final_candidate,D90E,90,D,E,FR3,False,Asp isomerization motif,DT,90,91,low,D->E to reduce Asp isomerization motif risk while preserving negative charge,Requires structure review if the Asp is involved in binding or loop conformation.,8
+PDL1_final_candidate,W36F,36,W,F,FR2,False,Oxidation-prone residue,W,36,36,low,W->F to reduce oxidation risk outside CDR,Tryptophan can be structurally important; treat as lower-priority review mutation.,6
+PDL1_final_candidate,W47F,47,W,F,FR2,False,Oxidation-prone residue,W,47,47,low,W->F to reduce oxidation risk outside CDR,Tryptophan can be structurally important; treat as lower-priority review mutation.,6
+PDL1_final_candidate,M83L,83,M,L,FR3,False,Oxidation-prone residue,M,83,83,low,M->L to reduce oxidation risk outside CDR,Check structural packing; Met may contribute to local stability.,6
+PDL1_final_candidate,W106F,106,W,F,FR4,False,Oxidation-prone residue,W,106,106,low,W->F to reduce oxidation risk outside CDR,Tryptophan can be structurally important; treat as lower-priority review mutation.,6
+PDL1_final_candidate,N103Q,103,N,Q,CDR3,True,Asn deamidation motif,NS,103,104,medium,N->Q to reduce Asn deamidation motif risk,Requires structure review if the Asn is in CDR or antigen-contacting region.,5

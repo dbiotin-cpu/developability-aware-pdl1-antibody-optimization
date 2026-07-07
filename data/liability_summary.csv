@@ -1,0 +1,8 @@
+category,name,total_count,cdr_count
+liability_type,Asn deamidation motif,3,1
+liability_type,Asp isomerization motif,3,0
+liability_type,Cysteine for disulfide/free-Cys review,2,0
+liability_type,Oxidation-prone residue,4,0
+severity,low,9,
+severity,medium,1,
+severity,review,2,
