@@ -27,27 +27,14 @@ This project was designed to show the next step after computational antibody gen
 
 ---
 
-## Workflow
+## Workflow Overview
 
-```text
-AI-designed PD-L1 antibody candidate
-        ↓
-Antibody numbering and CDR annotation
-        ↓
-Sequence liability analysis
-        ↓
-Developability feature calculation
-        ↓
-Rational mutation proposal
-        ↓
-Variant developability re-scoring
-        ↓
-Boltz structure re-evaluation
-        ↓
-Epitope/contact retention scoring
-        ↓
-Final ranked variants
-```
+This project builds a developability-aware optimization pipeline for an AI-designed PD-L1 antibody candidate. The workflow integrates antibody-specific sequence annotation, liability analysis, rational mutation design, structure-based re-evaluation, and final candidate ranking.
+
+![Developability-aware optimization workflow for an AI-designed PD-L1 antibody](figures/ai_designed_pd_l1_antibody_workflow.png)
+
+**Figure 1. Developability-aware optimization workflow for an AI-designed PD-L1 antibody.**  
+The workflow begins with an AI-designed PD-L1 antibody candidate and proceeds through antibody numbering and CDR annotation, sequence liability analysis, developability feature calculation, rational mutation proposal, and variant developability re-scoring. Top-ranked variants are then re-evaluated structurally using Boltz, followed by epitope/contact retention scoring to assess whether the predicted PD-L1 binding mode is preserved. The final output is a ranked set of optimized variants balancing developability improvement and structural retention.
 
 ---
 
